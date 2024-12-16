@@ -17,6 +17,7 @@ We've constructed an interactive dashboard by integrating pivot tables and visua
 In this Excel dashboard project, we've incorporated Buttons, Filters, and Slicers to enhance user interaction. Users can now explore specific data subsets with ease. Filters based on Accident Date, Urban, and Rural areas have been added, enabling users to refine their data views. Additionally, interactive buttons have been included to provide users with dynamic features, making the dashboard more engaging and user-friendly.
 
 ## Dashboard
+![image](https://github.com/user-attachments/assets/ad615fe9-6866-4966-b3e6-c74fdddf25b2)
 
 
 ## Results
